@@ -1,0 +1,49 @@
+body {
+  background-color: #98f2fa;
+}
+
+  .main {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    max-width: 1400px;
+    padding: 50px;
+    background-color: cornsilk;
+}
+.top-div {
+  background-color: #98f2fa;
+}
+.usa-name {
+  text-align: center;
+  font-size: 50px;
+}
+p {
+  font-size: 25px;
+}
+.usa {
+  margin-left: 230px;
+  margin-bottom: 20px;
+}
+.map {
+  margin-left: 280px;
+}
+iframe {
+  margin-left: 75px;
+}
+.anthem {
+  margin-left: 400px;
+}
+.main-anthem {
+  margin-left: 480px;
+  font-size: 30px;
+}
+li{
+  font-size: 25px;
+}
+
+ul {
+  margin-left: 500px;
+}
+.svg {
+  margin-left: 350px;
+}
